@@ -6,8 +6,16 @@ import { Component, OnInit } from '@angular/core';
   styleUrls: ['./exercice2.component.css']
 })
 export class Exercice2Component implements OnInit {
+  
+  
+  console(){
+    console.log("click");
+    
+  }
+  constructor() { 
+    
+  }
 
-  constructor() { }
 
   ngOnInit() {
   }
